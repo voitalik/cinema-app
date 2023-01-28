@@ -1,11 +1,11 @@
 # :cinema: Cinema-app
 
 <!-- TOC -->
-* [Cinema-app](#Cinema-app)
-    * [*Description*](#description)
-    * [*Features*](#features)
-    * [*Technologies*](#technologies)
-    * [*Instructions*](#instructions)
+* [Cinema-app](#cinema-cinema-app)
+    * [*Description*](#books-description)
+    * [*Features*](#key-features)
+    * [*Technologies*](#movie_camera-technologies-list)
+    * [*Instructions*](#clapper-how-to-run-project)
 <!-- TOC -->
 
 
@@ -71,7 +71,7 @@ In the application are presented roles ADMIN and USER and implemented following 
 
 ### :clapper: *How to run project*
 
-##### Requirenments
+##### Requirements
 - Java 11
 - Tomcat 9.0.50
 - MySQL 8.0.30
@@ -81,3 +81,5 @@ Instruction to compile and launch the application.
 2. Setup connection attributes to your database into **src/main/resources/db.properties** file.
 3. Configure Tomcat server: add artifact for deploying.
 4. Run Tomcat configuration.
+
+You can test the app at [http://cinema.eu-west-3.elasticbeanstalk.com/users](http://cinema.eu-west-3.elasticbeanstalk.com/users)

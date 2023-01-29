@@ -82,4 +82,4 @@ Instruction to compile and launch the application.
 3. Configure Tomcat server: add artifact for deploying.
 4. Run Tomcat configuration.
 
-You can test the app at [http://cinema.eu-west-3.elasticbeanstalk.com/users](http://cinema.eu-west-3.elasticbeanstalk.com/users)
+You can test the app at [http://cinema.eu-west-3.elasticbeanstalk.com](http://cinema.eu-west-3.elasticbeanstalk.com)
